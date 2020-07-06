@@ -3,7 +3,9 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="Newtile">
-					<content></content>
+					<content>
+						<Button text="click here"/>
+					</content>
 				</Page>
 			</pages>
 		</App>

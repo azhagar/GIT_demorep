@@ -5,6 +5,8 @@ sap.ui.define([
 
 	return Controller.extend("com.demo.GITdemoUI5.controller.View1", {
 		onInit: function () {
+			
+			//this is init function
 
 		}
 	});
