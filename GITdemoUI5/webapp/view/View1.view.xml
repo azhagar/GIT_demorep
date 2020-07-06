@@ -5,6 +5,8 @@
 				<Page id="page" title="Newtile">
 					<content>
 						<Button text="click here"/>
+						<Button text="clickhere2"/>
+						
 					</content>
 				</Page>
 			</pages>
