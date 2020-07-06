@@ -3,11 +3,7 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="Newtile">
-					<content>
-						
-						<Button text="clickhere2"/>
-						
-					</content>
+					<content></content>
 				</Page>
 			</pages>
 		</App>
