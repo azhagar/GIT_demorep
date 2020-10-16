@@ -2,7 +2,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="Newtile">
+				<Page id="page" title="change1">
 					<content>
 						<Button text="click here"/>
 						<Button text="clickhere2"/>
